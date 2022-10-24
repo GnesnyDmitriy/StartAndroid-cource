@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/P0201_SimpleAnimation/src/main/res/layout/activity_main.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0072_LayoutProp/src/main/res/layout/activity_main.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0072_LayoutProp/src/main/res/layout/grlayout.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0072_LayoutProp/src/main/res/layout/marginlayout.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0081_ViewById/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.242" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0081_ViewById/src/main/res/drawable/ic_launcher_background.xml" value="0.242" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0081_ViewById/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0081_ViewById/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.242" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0081_ViewById/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.242" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0091_OnClickButtons/src/main/res/layout/activity_main.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0101_Listener/src/main/res/layout/activity_main.xml" value="0.23020833333333332" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0102_ActivityListener/src/main/res/layout/activity_main.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0151_contextmenu/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0161_dynamiclayout/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0171_dynamiclayout2/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0181_dynamiclayout3/src/main/res/layout/activity_main.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0191_simplecalculator/src/main/res/layout/activity_main.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0211twoactivity/src/main/res/layout/activity_main.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0211twoactivity/src/main/res/layout/activity_main2.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/p0231_oneactivitystate/src/main/res/layout/activity_main.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/dimss/AndroidStudioProjects/rust/simpleanimation/src/main/res/layout/activity_main.xml" value="0.42916666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

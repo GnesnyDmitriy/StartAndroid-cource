@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/P0201_SimpleAnimation" />
+            <option value="$PROJECT_DIR$/p0072_LayoutProp" />
+            <option value="$PROJECT_DIR$/p0081_ViewById" />
+            <option value="$PROJECT_DIR$/p0091_OnClickButtons" />
+            <option value="$PROJECT_DIR$/p0101_Listener" />
+            <option value="$PROJECT_DIR$/p0102_ActivityListener" />
+            <option value="$PROJECT_DIR$/p0151_contextmenu" />
+            <option value="$PROJECT_DIR$/p0161_dynamiclayout" />
+            <option value="$PROJECT_DIR$/p0171_dynamiclayout2" />
+            <option value="$PROJECT_DIR$/p0181_dynamiclayout3" />
+            <option value="$PROJECT_DIR$/p0191_simplecalculator" />
+            <option value="$PROJECT_DIR$/p0211twoactivity" />
+            <option value="$PROJECT_DIR$/p0231_oneactivitystate" />
+            <option value="$PROJECT_DIR$/p0241_twoactivitystate" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "rust"
+include ':p0151_contextmenu'
+include ':p0161_dynamiclayout'
+include ':p0171_dynamiclayout2'
+include ':p0181_dynamiclayout3'
+include ':p0191_simplecalculator'
+include ':P0201_SimpleAnimation'
+include ':p0211twoactivity'
+include ':p0231_oneactivitystate'
+include ':p0241_twoactivitystate'
+include ':p0072_LayoutProp'
+include ':p0081_ViewById'
+include ':p0091_OnClickButtons'
+include ':p0101_Listener'
+include ':p0102_ActivityListener'
